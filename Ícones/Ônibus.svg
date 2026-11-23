@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Camada_2" data-name="Camada 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 12">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #2e3192;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="MetrôBH">
+    <g id="Símbolos">
+      <g id="_Ônibus" data-name="Ônibus">
+        <g id="Barreiro">
+          <g>
+            <circle class="cls-1" cx="6" cy="6" r="5.25"/>
+            <path class="cls-1" d="M6,1.5c2.48,0,4.5,2.02,4.5,4.5s-2.02,4.5-4.5,4.5S1.5,8.48,1.5,6,3.52,1.5,6,1.5h0ZM6,0C2.69,0,0,2.69,0,6s2.69,6,6,6,6-2.69,6-6S9.31,0,6,0h0Z"/>
+          </g>
+          <g>
+            <g>
+              <path class="cls-2" d="M3.24,8.22V3.24c0-.29.23-.52.52-.52h4.46c.29,0,.52.23.52.52v4.99H3.24Z"/>
+              <path class="cls-2" d="M8.23,3.21l.02.02v4.49H3.75l.02-4.51h4.47ZM8.23,2.21H3.77c-.57,0-1.02.46-1.02,1.02v5.49h6.51V3.24c0-.57-.46-1.02-1.02-1.02h0Z"/>
+            </g>
+            <g>
+              <path class="cls-2" d="M3.72,9.79h-.32c-.11,0-.2-.09-.2-.2v-.87h.72v.87c0,.11-.09.2-.2.2Z"/>
+              <path class="cls-2" d="M3.91,8.72h-.72v.87c0,.11.09.2.2.2h.32c.11,0,.2-.09.2-.2v-.87h0Z"/>
+            </g>
+            <g>
+              <path class="cls-2" d="M8.6,9.79h-.32c-.11,0-.2-.09-.2-.2v-.87s.72,0,.72,0v.87c0,.11-.09.2-.2.2Z"/>
+              <path class="cls-2" d="M8.8,8.72h-.72v.87c0,.11.09.2.2.2h.32c.11,0,.2-.09.2-.2v-.87h0Z"/>
+            </g>
+            <rect class="cls-1" x="3.56" y="3.46" width="4.89" height="2.62" rx=".15" ry=".15"/>
+            <circle class="cls-1" cx="3.56" cy="7.33" r=".36"/>
+            <rect class="cls-1" x="4.28" y="2.61" width="3.42" height=".44" rx=".12" ry=".12"/>
+            <circle class="cls-1" cx="8.44" cy="7.33" r=".36"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
