@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="TREM" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #cc6615;
+      }
+
+      .cls-2 {
+        fill: #eb7405;
+      }
+
+      .cls-3 {
+        fill: #2e286c;
+      }
+
+      .cls-4 {
+        fill: #544596;
+      }
+    </style>
+  </defs>
+  <g id="TREM-2" data-name="TREM">
+    <g id="TREM_1" data-name="TREM 1">
+      <polygon class="cls-2" points=".71 277.25 23.4 316.54 114.13 316.54 68.76 395.12 91.45 434.41 182.18 277.25 .71 277.25"/>
+      <polygon class="cls-1" points="114.13 316.54 136.82 277.25 182.18 277.25 159.5 316.54 114.13 316.54"/>
+    </g>
+    <g id="TREM_2" data-name="TREM 2">
+      <polygon class="cls-4" points="114.13 187.83 141.84 235.83 252.7 235.83 197.27 331.83 224.98 379.83 335.83 187.83 114.13 187.83"/>
+      <polygon class="cls-3" points="252.7 235.83 280.41 187.83 335.83 187.83 308.12 235.83 252.7 235.83"/>
+    </g>
+    <g id="TREM_3" data-name="TREM 3">
+      <polygon class="cls-2" points="256.71 77.59 288.53 132.71 415.82 132.71 352.18 242.94 384 298.06 511.29 77.59 256.71 77.59"/>
+      <polygon class="cls-1" points="415.82 132.71 447.64 77.59 511.29 77.59 479.47 132.71 415.82 132.71"/>
+    </g>
+  </g>
+</svg>
