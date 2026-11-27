@@ -1,8 +1,8 @@
 # Mapas de Metrô
 
-Bem-vindo ao meu repositório! Ele é dedicado à produção, organização e disponibilização de mapas e materiais gráficos relacionados aos sistemas metroviários. Todos são convidados a contribuir, usando Pull Requests.
+Repositório dedicado à produção, organização e disponibilização de mapas e materiais gráficos relacionados a sistemas metroviários e de transporte.
 
-Aqui estão armazenados os arquivos-fonte dos projetos, suas respectivas exportações e recursos gráficos reutilizáveis.
+Aqui ficam os arquivos-fonte dos projetos, suas exportações e recursos gráficos reutilizáveis. Os arquivos editáveis são mantidos junto à pasta do respectivo projeto ou identidade visual; as versões finais ficam em uma subpasta `export/`.
 
 ## Projetos
 
@@ -10,32 +10,30 @@ Aqui estão armazenados os arquivos-fonte dos projetos, suas respectivas exporta
 
 Materiais gráficos relacionados ao sistema metroviário de Belo Horizonte, incluindo documentos, mapas e elementos visuais.
 
-O estilo é baseado no mapa do Metrô de São Paulo, e usa como base os mapas dos metrôs dos meus servidores de Minecraft.
-
-- [Acessar os arquivos do projeto](./Metr%C3%B4%20BH/)
+- [Arquivos do projeto](./Metr%C3%B4%20BH/)
+- [Marca e identidade visual](./Recursos%20compartilhados/Marcas/Metr%C3%B4%20BH/)
 - Artigo relacionado na Wikipédia: a definir
 - Arquivos relacionados no Wikimedia Commons: a definir
 
 ### Metrô BH Alternativo
 
-Projeto de mapas esquemáticos alternativos para o sistema metroviário de Belo Horizonte, simplificados. Inclui propostas de expansão.
+Projeto de mapas esquemáticos alternativos para o sistema metroviário de Belo Horizonte, simplificados, incluindo propostas de expansão.
 
-- [Acessar os arquivos do projeto](./Metr%C3%B4%20BH%20Alternativo/)
+- [Arquivos do projeto](./Metr%C3%B4%20BH%20Alternativo/)
 - Artigo relacionado na Wikipédia: a definir
 - Arquivos relacionados no Wikimedia Commons: a definir
 
 ## Recursos compartilhados
 
-Elementos gráficos e arquivos reutilizáveis que podem ser empregados em diferentes projetos.
+Elementos gráficos e arquivos reutilizáveis em diferentes projetos.
 
+- [Marcas e identidades visuais](./Recursos%20compartilhados/Marcas/)
 - [Templates](./Recursos%20compartilhados/template/)
 - [Ícones](./Recursos%20compartilhados/%C3%8Dcones/)
 
 ## Ferramentas e formatos
 
-Os arquivos de produção são desenvolvidos principalmente no Adobe Illustrator.
-
-Entre os formatos disponíveis estão AI, SVG, PDF e PNG, dependendo do projeto e da finalidade de cada arquivo.
+Os arquivos de produção são desenvolvidos principalmente no Adobe Illustrator. Entre os formatos disponíveis estão AI, SVG, PDF e PNG, conforme a finalidade de cada material.
 
 ## Licença e atribuição
 

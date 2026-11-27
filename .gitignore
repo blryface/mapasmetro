@@ -1,0 +1,76 @@
+# Arquivos locais e variáveis de ambiente
+.env
+.env.*
+!.env.example
+!.env.template
+*.local
+
+# Credenciais, tokens e chaves privadas
+/secrets/
+/credentials/
+*.token
+*.credentials
+*.pem
+*.key
+*.p12
+*.pfx
+*.p7b
+*.p7c
+*.jks
+*.keystore
+id_rsa
+id_ed25519
+id_ecdsa
+
+# Arquivos temporários, backups e recuperação
+*.tmp
+*.temp
+*.swp
+*.swo
+*.part
+*.bak
+*.backup
+*.old
+*~
+.~lock.*
+*.lock
+*.lck
+
+# Logs e caches
+*.log
+.cache/
+.cache-*/
+tmp/
+temp/
+.cache-loader/
+
+# Sistema operacional
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Adobe e ferramentas de criação (dados locais, não documentos-fonte)
+.Adobe/
+.adobe/
+BridgeCache/
+.AdobeBridgeCache/
+*.idlk
+*.ait.lock
+
+# Editores e IDEs: preservar configurações compartilháveis
+.idea/
+.history/
+.vscode/settings.json
+.vscode/launch.json
+.vscode/tasks.json
+.vscode/*.code-workspace
+
+# Ambientes e dependências locais
+.venv/
+venv/
+__pycache__/
+node_modules/
